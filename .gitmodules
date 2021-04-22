@@ -1,0 +1,9 @@
+[submodule "runeaid/themes/ananke"]
+	path = runeaid/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "runeaid/themes/somrat"]
+	path = runeaid/themes/somrat
+	url = git@github.com:somratpro/somrat.git
+[submodule "runeaid/themes/hugo-webslides"]
+	path = runeaid/themes/hugo-webslides
+	url = https://github.com/rcjach/hugo-webslides.git

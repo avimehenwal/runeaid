@@ -1,0 +1,8 @@
+baseURL = "https://avimehenwal.github.io/runeaid/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+publishdir = "../docs"
+theme = "somrat"
+# theme = "ananke"
+# theme = "hugo-webslides"
+
