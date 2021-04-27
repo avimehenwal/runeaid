@@ -5,8 +5,8 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'Runeaid',
+  base: "/runeaid/",
   dest: '../../docs',
-  base: 'https://avimehenwal.github.io/runeaid/',
 
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
@@ -30,11 +30,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    // repo: 'avimehenwal/runeaid',
     editLinks: false,
-    docsDir: '',
+    // docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    logo: '/RA-logo.svg',
     nav: [
       {
         text: 'Guide',
