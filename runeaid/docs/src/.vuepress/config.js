@@ -6,7 +6,7 @@ module.exports = {
    */
   title: 'Runeaid',
   dest: '../../docs',
-  base: 'runeaid',
+  base: 'https://avimehenwal.github.io/runeaid/',
 
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
